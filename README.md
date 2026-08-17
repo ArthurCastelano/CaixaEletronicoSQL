@@ -35,7 +35,3 @@ SQLite
 Microsoft.Data.Sqlite (NuGet)
 Visual Studio
 
-
-Autor
-
-Arthur Castelano
